@@ -22,11 +22,14 @@
 ```bash
 pip install customtkinter
 python AmerSync.py
-```bash
-#🛠️ التحويل إلى EXE
+```
+## 🛠️ التحويل إلى EXE
 لتحويل المشروع إلى ملف تنفيذي مستقل مع الأيقونة الكريستالية:
 ```bash
 pyinstaller --noconsole --onefile --collect-all customtkinter --icon="icon.ico" --name "AmerSync_Crystal" AmerSync.py
-#👤 المطور
-#Amer Hendy
-#GitHub: @amerhendy
+```
+## 👤 المطور
+
+Amer Hendy
+
+GitHub: @amerhendy
