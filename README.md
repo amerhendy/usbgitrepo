@@ -22,6 +22,7 @@
 ```bash
 pip install customtkinter
 python AmerSync.py
+```bash
 #🛠️ التحويل إلى EXE
 لتحويل المشروع إلى ملف تنفيذي مستقل مع الأيقونة الكريستالية:
 ```bash
